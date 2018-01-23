@@ -41,3 +41,8 @@
 .first {
   margin-left: 0%
 }
+
+section {
+  padding: 20 px;
+  margin-bottom: 20px;
+}
